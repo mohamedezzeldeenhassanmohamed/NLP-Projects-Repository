@@ -1,5 +1,3 @@
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![library](https://img.shields.io/badge/Library-nltk,_sklearn-orange.svg)
-
 ## Project Overview
 • Created a machine learning model that **detects/classifies a SMS into SPAM or HAM (normal) based on the textual data using Natural Language Processing.**<br/>
 • **Engineered features like word_count, contains_currency_symbol, and contains_number** from the text SMS.
